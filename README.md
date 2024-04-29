@@ -79,34 +79,25 @@ Installation position: floor, ceiling, walls.
 ![image](https://user-images.githubusercontent.com/36288975/201621235-3b8b46a9-3c19-4207-9ea2-6a7954eb6135.png)
 and click on the connect icon 
 
-3. click on the 
+3. click on the
+![image](https://github.com/Kousalya22008930/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/119389108/023ed470-1f29-4fba-b97a-f3cf1b600cfa)
 
+### output video and screen shots of pick and place
+![image](https://github.com/Kousalya22008930/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/119389108/2371f540-5202-4118-a57f-c6b3e004bb26)
 
+![image](https://github.com/Kousalya22008930/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/119389108/221c546c-45fa-4d83-8c8a-eb53b3f3ea4a)
 
+![image](https://github.com/Kousalya22008930/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/119389108/e9d5bc08-24d9-417c-a199-6eb2764a69f0)
 
+![image](https://github.com/Kousalya22008930/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/119389108/d4a3efd9-1b23-4327-998b-bb9ecb2ffffb)
 
+![image](https://github.com/Kousalya22008930/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/119389108/d3ea4437-6179-4306-afc5-3341b01884e1)
 
-
-
-
-
-
-
-
-
-
-
-
-
-### output video and screen shots of pick and place 
-
-
-
-
-
-
-
+![image](https://github.com/Kousalya22008930/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/119389108/41bd33a4-583c-4520-a61b-4068b113334b)
+ 
+https://drive.google.com/file/d/16vrki9nibqNeyHHRaJvtOtHwRCNdeD-z/view?usp=sharing
 ### Results: 
+Thus to pick and place a regular shape using two finger gripper on the conveyor belt.
 
 
 
